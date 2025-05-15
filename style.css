@@ -102,7 +102,7 @@
 
 /* Cards */
 
-#upcoming-hackathons h2, #ongoing-hackathons h2 {
+#upcoming-hackathons h2, #ongoing-hackathons h2, #past-winner h2{
     text-align: center;
     font-size: 39px;
 }
