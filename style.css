@@ -86,7 +86,7 @@ marquee{
     display: flex;
     flex-wrap: nowrap;
     justify-content: space-between;
-    background-image: url('/assets/yellowasset.jpeg');
+    background-image: url('/ITM-Hackathon-Page/assets/yellowasset.jpeg');
     background-size: cover ;
 }
 #abt_text{
