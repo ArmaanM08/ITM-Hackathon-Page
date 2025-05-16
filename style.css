@@ -30,11 +30,13 @@
 }
 
 #audio-btn {
+    color: white;
   bottom: 30px;
   right: 30px;
 }
 
 #skip-btn {
+    color: white;
   bottom: 30px;
   left: 30px;
 }
