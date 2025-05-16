@@ -12,7 +12,7 @@ video.onended = () => {
 
 // Unmute audio when button clicked
 audioBtn.addEventListener('click', () => {
-  video.muted = false;
+  video.muted = true;
   video.volume = 1.0;
   video.play();
   audioBtn.style.display = 'none';
